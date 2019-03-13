@@ -1,7 +1,7 @@
 # Asp.Net Core Web API - Angular 7
 ## User Registration
 
-<img src=""  />
+<img src="https://raw.githubusercontent.com/fcetinkaya/Angular7UserRegistration_CoreWebAPI/master/WebAPICoreUserRegistration.jpg" />
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.2.0-rc.0.
 
