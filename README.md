@@ -1,4 +1,4 @@
-# Asp.Net Core Web API - Angular 7
+# Asp.Net Core Web API User Identity with Angular 7 Tutorial
 ## User Registration
 
 <img src="https://raw.githubusercontent.com/fcetinkaya/Angular7UserRegistration_CoreWebAPI/master/WebAPICoreUserRegistration.jpg" />
